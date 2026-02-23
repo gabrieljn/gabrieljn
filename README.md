@@ -1,25 +1,16 @@
-# 👋 Olá! Eu sou Gabriel Nascimento Alves
+# 💫 Sobre mim:
+👋 Olá! Eu sou Gabriel Nascimento Alves<br><br>Sou estudante de Sistemas de Informação com experiência em suporte técnico e desenvolvimento web. Tenho familiaridade com Java, Spring Boot, Angular e Oracle SQL.<br>- 🎓 Cursando: Sistemas de Informação<br>- 🌱 Estudando: Java, Spring Boot, SQL, Node, React<br>- 📫 Contato: [Portfólio](https://gabrielvs.com.br)<br>
 
-Sou estudante de Sistemas de Informação com experiência em suporte técnico, back-office e desenvolvimento web. Tenho familiaridade com Java, Spring Boot, Angular e Oracle SQL, e estou em busca de oportunidades nas áreas de desenvolvimento ou suporte técnico especializado. Gosto de resolver problemas e contribuir para o aprimoramento de processos e sistemas.
 
-- 🎓 Cursando: Sistemas de Informação
-- 🔭 Em transição para a área de desenvolvimento
-- 🌱 Estudando: Java, Spring Boot e Oracle SQL
-- 📫 Contato: [LinkedIn](https://www.linkedin.com/in/gabriel-na)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-na) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dev@gabrielvs.com.br) 
 
-### 🛠️ Minhas Stacks:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Oracle SQL](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-## 📊 GitHub Stats
-
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrieljn&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljn&layout=compact&theme=tokyonight)
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=gabrieljn&theme=aura&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=gabrieljn&theme=aura&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljn&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
